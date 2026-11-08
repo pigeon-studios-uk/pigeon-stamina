@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-11-08
+
 First release.
 
 ### Highlights
@@ -25,4 +27,5 @@ First release.
 - Respawn refills left as they are.
 - Update checker from the Pigeon Studios version registry.
 
-[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-stamina/commits/main
+[Unreleased]: https://github.com/pigeon-studios-uk/pigeon-stamina/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/pigeon-studios-uk/pigeon-stamina/releases/tag/v1.0.0
